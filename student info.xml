@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="usncssfile.css"?>
+<students>
+<student>
+<USN> USN: 4VV15CS074</USN>
+<name> NAME: POOJA CA</name>
+<college> COLLAGE: VVCE</college>
+<branch> BRANCH: Computer Science and Engineering</branch>
+<year> YEAR: 2019</year>
+<e-mail>E-Mail: 2019@gmail.com</e-mail>
+</student>
+<student>
+<USN> USN: 4VV15CS083</USN>
+<name> NAME: RACHITHA KT</name>
+<college> COLLAGE: VVCE</college>
+<branch> BRANCH: Computer Science and Engineering</branch>
+<year> YEAR: 2019</year>
+<e-mail>E-Mail: 2018@gmail.com</e-mail>
+</student>
+<student>
+<USN> USN: 4VV15CS097</USN>
+<name> NAME: SANCHITHA</name>
+<college> COLLAGE: VVCE</college>
+<branch> BRANCH: Computer Science and Engineering</branch>
+<year> YEAR: 2019</year>
+<e-mail>E-Mail: 2017@gmail.com</e-mail>
+</student>
+</students>

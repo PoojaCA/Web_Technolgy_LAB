@@ -1,0 +1,44 @@
+students
+{
+	background-color: ivory;
+	font-family: helvatica;
+	display:block;
+}
+
+
+USN
+{
+	color: brown;
+	font-family: helvatica;
+	display:block;
+}
+name
+{
+	color: red;
+	font-family: helvatica;
+	display:block;
+}
+college
+{
+	color: green;
+	font-family: helvatica;
+	display:block;
+}
+branch
+{
+	color: blue;
+	font-family: helvatica;
+	display:block;
+}
+year
+{
+	color: orange;
+	font-family: helvatica;
+	display:block;
+}
+e-mail
+{
+	color: purple;
+	font-family: helvatica;
+	display:block;
+}
